@@ -1,11 +1,19 @@
 🚀 Java Socket Programming: Interactive Client-Server Chat
 Welcome to the Interactive Client-Server Chat project! This is a beginner-friendly demonstration of real-time communication using Java socket programming. Dive in to explore how clients and servers exchange messages in a simple yet powerful way.
 
+
+
+
+
 🛠 Features
 💬 Real-Time Communication: Clients and servers exchange messages interactively.
 ✅ Custom Server Responses: The server acknowledges every client message.
 🛑 Clean Exit: Type exit to gracefully end the session.
 🔧 Extensible: A solid foundation for building advanced networking applications.
+
+
+
+
 ✨ How It Works
 Server: Listens on port 8083 and waits for client connections.
 Client: Connects to the server, sends messages, and receives replies.
@@ -13,6 +21,9 @@ Message Exchange:
 Client sends a message.
 Server processes it and sends a confirmation back.
 Termination: The session ends when the client types exit.
+
+
+
 📋 Prerequisites
 Before you begin, ensure you have the following:
 
@@ -53,6 +64,8 @@ Copy code
 Enter messages to send to the server (type 'exit' to quit):
 Type a message, hit Enter, and watch the interaction happen live!
 
+
+
 💻 Sample Interaction
 Client Terminal
 vbnet
@@ -74,6 +87,9 @@ Client: How are you?
 Client: exit
 Client disconnected.
 Server shut down.
+
+
+
 🔧 Troubleshooting
 🛠 Common Issues and Fixes
 "Command not recognized" error:
@@ -87,6 +103,10 @@ No messages appearing:
 
 Verify both the client and server are running.
 Check if firewalls or antivirus software are blocking the connection.
+
+
+
+
 📂 File Structure
 plaintext
 Copy code
