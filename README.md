@@ -1,4 +1,4 @@
-🚀 Java Socket Programming: Interactive Client-Server Chat
+ 🚀 Java Socket Programming: Interactive Client-Server Chat
 Welcome to the Interactive Client-Server Chat project! This is a beginner-friendly demonstration of real-time communication using Java socket programming. Dive in to explore how clients and servers exchange messages in a simple yet powerful way.
 
 
